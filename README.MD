@@ -50,7 +50,7 @@ Node.Js e NPM
 
 
    ```bash
-   git clone https://github.com/lemos000/lvs.git
+   git clone https://github.com/lemos000/lvs-main.git
    cd lvs
 
 ```
